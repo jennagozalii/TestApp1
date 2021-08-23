@@ -15,4 +15,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ball_640x480" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="209dp"
+        android:layout_height="70dp"
+        android:text="Hello World
+Testinf 1 2 3 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaa"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="110dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
